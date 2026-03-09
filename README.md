@@ -1,4 +1,5 @@
-### Life's Struggle 2004.10.30
+DATA SCIENTIST | PRODUCT ANALYTICS & MACHINE LEARNING
+Operations Research MEng candidate with a dual background in Ad-Tech Experimentation (Baidu) and Supply Chain Strategy (Goodyear). Specialized in A/B testing, causal inference, and end-to-end predictive modeling. Proven track record of architecting data pipelines and deploying algorithms under strict production constraints to drive revenue, conversion, and operational efficiency.
 
 <!--
 **yj017/yj017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
